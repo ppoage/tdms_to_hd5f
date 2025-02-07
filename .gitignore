@@ -1,0 +1,8 @@
+# Ignore all .tdms files
+*.tdms
+*.zip
+*.h5
+.venv/
+.DS_Store
+Thumbs.db
+scratch/
